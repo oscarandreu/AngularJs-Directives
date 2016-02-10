@@ -1,4 +1,3 @@
-
 /*
 mainApp.directive('ngBindHtmlUnsafe', [function() {
     return function(scope, element, attr) {
@@ -17,4 +16,3 @@ mainApp.directive('ngBindHtmlUnsafe', [function() {
         };
     }
 ]);
- 
